@@ -1,38 +1,8 @@
-# Hugo 8-bits Theme
-
-![GitHub](https://img.shields.io/github/license/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/miguelsimoni/hugo-8bits-theme/main.svg?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/miguelsimoni/hugo-8bits-theme.svg?style=flat-square)
-
-[Hugo 8-bits Theme](https://miguelsimoni.github.io/hugo-8bits-site/) is based on the [NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/) developed by [@bc_rikko](https://twitter.com/bc_rikko).
-
-![screenshot](https://raw.githubusercontent.com/miguelsimoni/hugo-8bits-theme/main/images/tn.png)
-
-[Live Demo](https://miguelsimoni.github.io/hugo-8bits-site/)
-
-
-### NES.css Framework Info
-
-|||
-|-|-|
-|**Name** | NES.css |
-|**Description** | NES-style CSS Framework |
-|**Designer** | [BcRikko](https://github.com/BcRikko) |
-|**Version** | 2.3.0 |
-|**Released** | Dec 17, 2019 |
-|**License** | [Licensing information](https://github.com/nostalgic-css/NES.css#copyright-and-license) |
-
-
 ## Installation
 
 ```
 $ cd /<your-hugo-site-directory>
-$ git submodule add https://github.com/miguelsimoni/hugo-8bits-theme.git themes/hugo-8bits-theme
+$ git submodule add https://github.com/MythalCorp/hugo-mythal-theme.git themes/hugo-mythalcorp-theme
 ```
 
 More info: [hugo setup guide](https://gohugo.io/overview/installing/)
