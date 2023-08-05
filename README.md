@@ -2,7 +2,7 @@
 
 ```
 $ cd /<your-hugo-site-directory>
-$ git submodule add https://github.com/MythalCorp/hugo-mythal-theme.git themes/hugo-mythalcorp-theme
+$ git submodule add https://github.com/MythalCorp/hugo-mythalcorp-theme.git themes/hugo-mythalcorp-theme
 ```
 
 More info: [hugo setup guide](https://gohugo.io/overview/installing/)
