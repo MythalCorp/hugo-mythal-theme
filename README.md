@@ -5,12 +5,11 @@ $ cd /<your-hugo-site-directory>
 $ git submodule add https://github.com/MythalCorp/hugo-mythalcorp-theme.git themes/hugo-mythalcorp-theme
 ```
 
-More info: [hugo setup guide](https://gohugo.io/overview/installing/)
 
 
 ## Configuration
 
-`hugo.toml`
+Edit `hugo.toml`
 
 ```
 baseURL = 'https://mythalcorp.github.io/'
