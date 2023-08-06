@@ -10,6 +10,9 @@ More info: [hugo setup guide](https://gohugo.io/overview/installing/)
 
 ## Configuration
 
+hugo.toml
+
+
 [config.yaml](https://github.com/miguelsimoni/hugo-8bits-theme/blob/main/exampleSite/config.yaml)
 
 ### Multilingual
