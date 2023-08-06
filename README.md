@@ -11,6 +11,7 @@ More info: [hugo setup guide](https://gohugo.io/overview/installing/)
 ## Configuration
 
 `hugo.toml`
+
 ```
 baseURL = 'https://mythalcorp.github.io/'
 languageCode = 'fr'
